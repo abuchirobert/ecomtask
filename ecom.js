@@ -7,7 +7,7 @@ Checkout
 
 Name: Abuchi Robert
 Path: Web3
-NOTE: This program works only in terminals with NodeJs for now.
+NOTE: This program works only in a web browser console.
 
 */
 
